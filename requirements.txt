@@ -42,7 +42,7 @@ python-slugify==1.1.2
 requests[security]
 robotframework
 robotframework-selenium2library
-rsa==3.1.4
+rsa==4.1
 selenium
 sentinels==1.0.0
 simplejson==3.6.5
